@@ -1,0 +1,7 @@
+matplotlib==3.7.5
+numpy==1.24.4
+opencv_python==4.10.0.84
+pandas==2.0.3
+plotly==5.24.1
+rectpack==0.2.2
+Shapely==1.8.5.post1
